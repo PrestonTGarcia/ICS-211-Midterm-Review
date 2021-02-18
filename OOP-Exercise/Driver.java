@@ -1,7 +1,7 @@
 /**
  * Driver --- program to test Square and Cube.
  * @author    Preston Garcia
- * @date      2/17/2021
+ * @date      02/17/2021
  */
 public class Driver{ // Driver class
 
