@@ -4,5 +4,7 @@ This repository contains directories for each of the practice exercises I gave t
 
 Note: Many of these programs may not check for exceptions or follow many coding standards because these were meant to show specific topics. In any big programming assignment that will actually be turned in, please follow coding standards.
 
+If you need any help with any of these exercises, feel free to reach out to me through my email listed on Laulima.
+
 Good luck on the midterm!
 -Preston
